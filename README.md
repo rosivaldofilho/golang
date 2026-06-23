@@ -1,1 +1,2 @@
-Estruturas da linguagem GO
+# Go Lang
+Estruturas e sintaxes principais da linguagem GO
