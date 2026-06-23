@@ -26,6 +26,7 @@ func main() {
 	fmt.Printf("O valor em float é: %.2f \n", valor)
 
 	// Bytes e Runes - Devem ser usadas aspas simples
+
 	var b byte = 'A'
 	var r rune = '&'
 	fmt.Println("Byte: ", b)
